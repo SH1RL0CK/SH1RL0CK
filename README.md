@@ -1,8 +1,8 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm Philipp and I'm a German student and hobby developer.
-- 🔭 I'm currently working on Davinki
-- 🌱 I’m currently learning Flutter (with Riverpod and Firebase) 😍
+### I'm Philipp, a German student and hobby developer.
+- 🔭 Currently working on Davinki
+- 🌱 Currently learning Flutter (with Riverpod and Firebase) 😍
 - 🥅 2021 Goals: Launching my first mobile app 📱
 - ⚡ Fun fact: My favourite food is pizza 🍕
 
