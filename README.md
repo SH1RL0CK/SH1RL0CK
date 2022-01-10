@@ -1,6 +1,6 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm Philipp, a German student and hobby developer
+### I'm Philipp and I'm a German student and hobby developer.
 - 🔭 I'm currently working on my own social media platform 📱
 - 🌱 I’m currently learning Django & React 🌐
 - 🥅 2022 Goals: Become better at progamming 🚀
@@ -32,5 +32,5 @@
 
 ## ⚡ My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&theme=radical"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
