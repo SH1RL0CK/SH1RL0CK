@@ -34,3 +34,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+
+## 🐍 Watch my contribution graph is eaten by a snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/sh1rl0ck/sh1rl0ck/output/github-contribution-grid-snake.svg)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
