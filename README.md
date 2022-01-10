@@ -1,26 +1,36 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm Philipp, a German student and hobby developer
-- 🔭 Currently working on [Davinki](https://github.com/SH1RL0CK/davinki) 🎓
-- 🌱 Currently learning Flutter (with Riverpod and Firebase) 😍
-- 🥅 2021 Goals: Launching my first mobile app 📱
-- ⚡ Fun fact: My favourite food is pizza 🍕
+### I'm Philipp and I'm a German student and hobby developer.
+- 🔭 I'm currently working on my own social media platform 📱
+- 🌱 I’m currently learning Django & React 🌐
+- 🥅 2022 Goals: Become better at progamming 🚀
+- ⚡ Fun fact: Mr. Robot is the best show ever 📺 
 
-## Languages, Frameworks and Tools
-<p align="left">
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
-</p>
 
-## Stats
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Qt-informational?style=flat&logo=qt&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+## ⚡ My GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&theme=radical"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&theme=radical"/>
