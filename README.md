@@ -49,6 +49,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&theme=algolia"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&show_icons=true&theme=algolia"/>
 
+_generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+
 ## 🐍 My Contribution Graph
 ![github contribution grid snake animation](https://raw.githubusercontent.com/sh1rl0ck/sh1rl0ck/output/github-contribution-grid-snake.svg)
 _generated with [Platane/snk](https://github.com/Platane/snk)_
