@@ -46,8 +46,9 @@
 ![Bash](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=3b4346)
 
 ## ⚡ My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&theme=algolia"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&show_icons=true&theme=algolia"/>
+![](https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&theme=algolia)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&show_icons=true&theme=algolia)
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
