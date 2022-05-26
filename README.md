@@ -41,14 +41,14 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/gitKraken-informational?style=for-the-badge&logo=gitkraken&logoColor=white&color=179287)
 ### Operation Systems & Shells
-![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=e95420)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-informational?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1)
 ![Windows](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=0067b8)
-![Bash](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=3b4346)
+![Zsh](https://img.shields.io/badge/ZSH-informational?style=for-the-badge&logo=gnome-terminal&logoColor=white&color=3b4346)
 
 ## ⚡ My GitHub Stats
-![SH1RL0CK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&theme=algolia)
+![SH1RL0CK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh1rl0ck&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&show_icons=true&theme=algolia)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1rl0ck&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
