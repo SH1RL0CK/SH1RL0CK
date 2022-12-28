@@ -1,8 +1,7 @@
 name: generate snake animation
 
 on:
-  # run automatically every 12 hours
-  schedule:
+  # run automatically every day
     - cron: "0 20 * * *" 
   
   # allows to manually run the job at any time
