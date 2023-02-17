@@ -2,7 +2,7 @@
 
 ### I'm Philipp, a German student and hobby developer
 
-- 🔭 I am currently completing my dual computer science studies at @dbsystel 🧑🏼‍🎓
+- 🔭 I am currently completing my dual computer science studies at [@dbsystel](https://github.com/dbsystel) 🧑🏼‍🎓
 - 🌱 I’m currently learning a lot of things 📚
 - 🥅 2023 Goals: Despite my work and studies i would like to continue working on my hobby projects 🚀
 - ⚡ Fun fact: Mr. Robot is the best show ever 📺
