@@ -3,9 +3,9 @@
 
 # I'm Philipp, a German student and hobby developer
 
-- 🔭 I've just started my Computer Science Studies 🧑🏼‍🎓
+- 🔭 I’m currently completing my dual Computer Science Studies at [@dbsystel](https://github.com/dbsystel) 🧑🏼‍🎓
 - 🌱 I’m currently learning a lot of things 📚
-- 🥅 2022 Goals: Become better at programming 🚀
+- 🥅 2023 Goals: Despite my work and studies I would like to continue working on my hobby projects 🚀
 - ⚡ Fun fact: Mr. Robot is the best show ever 📺
 
 ## 🛠️ Tech Stack
@@ -17,13 +17,11 @@
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white")
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 ### Frameworks, Libraries & Platforms
 
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
