@@ -1,6 +1,7 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm Philipp, a German student and hobby developer
+<img src="https://i.gifer.com/origin/1b/1bceb26d91bbe929e5e2f3c6577c6b49.gif">
+
+# I'm Philipp, a German student and hobby developer
 
 - 🔭 I've just started my Computer Science Studies 🧑🏼‍🎓
 - 🌱 I’m currently learning a lot of things 📚
