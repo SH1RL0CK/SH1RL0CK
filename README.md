@@ -1,5 +1,5 @@
 
-<img src="https://i.gifer.com/origin/1b/1bceb26d91bbe929e5e2f3c6577c6b49.gif">
+<img src="assets/hello_there.gif">
 
 # I'm Philipp, a German student and hobby developer
 
