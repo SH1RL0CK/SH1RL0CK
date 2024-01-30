@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently completing my dual Computer Science Studies at [@dbsystel](https://github.com/dbsystel) 🧑🏼‍🎓
 - 🌱 I’m currently learning a lot of things 📚
-- 🥅 2023 Goals: Despite my work and studies I would like to continue working on my hobby projects 🚀
+- 🥅 2024 Goals: Despite my work and studies I would like to continue working on my hobby projects 🚀
 - ⚡ Fun fact: Mr. Robot is the best show ever 📺
 
 ## 🛠️ Tech Stack
