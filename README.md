@@ -59,9 +59,9 @@
 
 ## ⚡ My GitHub Stats
 
-![SH1RL0CK's GitHub Stats]([https://github-readme-stats.vercel.app/api](https://github-readme-stats.tech.philipp-wirz.de)?username=sh1rl0ck&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
+![SH1RL0CK's GitHub Stats](https://github-readme-stats.tech.philipp-wirz.de/?username=SH1RL0CK&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
 
-![Most Used Languages]([https://github-readme-stats.vercel.app/api](https://github-readme-stats.tech.philipp-wirz.de)/top-langs/?username=sh1rl0ck&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
+![Most Used Languages](https://github-readme-stats.tech.philipp-wirz.de/top-langs/?username=SH1RL0CK&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
