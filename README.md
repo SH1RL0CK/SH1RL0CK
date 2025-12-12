@@ -1,12 +1,14 @@
 
 <img src="assets/hello_there.gif">
 
-# I'm Philipp, a German student and hobby developer
+# I'm Philipp, a German software developer 
 
-- 🔭 I’m currently completing my dual Computer Science Studies at [@dbsystel](https://github.com/dbsystel) 🧑🏼‍🎓
-- 🌱 I’m currently learning a lot of things 📚
-- 🥅 2025 Goals: Despite my work and studies I would like to continue working on my hobby projects 🚀
-- ⚡ Fun fact: Mr. Robot is the best show ever 📺
+- 💼 I’m working as a Software Developer at [@dbsystel](https://github.com/dbsystel) 🚆
+- 🧠 I enjoy building reliable, maintainable software and learning new technologies along the way
+- 🚀 I continue to work on various hobby and side projects besides my job
+- 🛠️ Interests: Software Engineering, Web & App Development, Automation, DevOps
+- ⚡ Fun fact: I have friends everywhere 📺
+
 
 ## 🛠️ Tech Stack
 
