@@ -61,18 +61,18 @@
 
 ## ⚡ My GitHub Stats
 
-![SH1RL0CK's GitHub Stats](https://github-readme-stats.tech.philipp-wirz.de/?username=SH1RL0CK&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
+![thewirzard's GitHub Stats](https://github-readme-stats.tech.philipp-wirz.de/?username=thewirzard&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
 
-![Most Used Languages](https://github-readme-stats.tech.philipp-wirz.de/top-langs/?username=SH1RL0CK&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
+![Most Used Languages](https://github-readme-stats.tech.philipp-wirz.de/top-langs/?username=thewirzard&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDF)
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 ## 🐍 My Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SH1RL0CK/SH1RL0CK/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SH1RL0CK/SH1RL0CK/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SH1RL0CK/SH1RL0CK/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thewirzard/thewirzard/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thewirzard/thewirzard/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thewirzard/thewirzard/output/github-contribution-grid-snake.svg">
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
